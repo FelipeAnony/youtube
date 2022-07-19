@@ -1,0 +1,17 @@
+.searchbarInnerContainer::before {
+  font-family: 'Material Symbols Outlined';
+  font-size: 20px;
+  font-weight: 100;
+  content:'search';
+  width: 35px;
+  position: absolute;
+  left: -33px;
+  background-color: #111;
+  height: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 1px rgb(37 99 235);
+  border-right: transparent;
+  border-radius: 2px 0 0 2px;
+}

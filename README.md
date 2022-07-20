@@ -1,6 +1,6 @@
 Simple clone of youtube homepage, made to train mockup skills with Html and Css, using tailwindcss.
 
-ps: The icons is not the same for copyright reasons
+ps: The icons are not the same for copyright reasons
 
 try it now: https://youtube-rho-eight.vercel.app/
 

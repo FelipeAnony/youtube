@@ -18,7 +18,7 @@ function Header() {
   const [isOpen, setisOpen] = useState(false);
 
   return (
-    <header className="flex justify-center items-center sticky bg-[#22222287] w-full h-14 px-2 py-1">
+    <header className="flex justify-center items-center sticky top-0 bg-[#212121f9] w-full h-14 px-2 py-1">
       <div className="flex items-center mx-auto text-[#eee] w-[97%]">
         <CgMenu
           className={`${
